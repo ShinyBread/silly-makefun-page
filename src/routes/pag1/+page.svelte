@@ -24,7 +24,7 @@
     </div>
     <div class="mt-5 mx-5 lg:mt-10 lg:ml-auto lg:w-1/4 lg:flex lg:flex-col lg:items-center">
         <img class="rounded-lg border-8" src="/graph.gif" alt="tu elo">
-        <p class="text-lg lg:text-2xl text-left lg:text-right">
+        <p class="text-lg sm:text-center lg:text-2xl lg:text-right">
             tu elo...
         </p>
     </div>
