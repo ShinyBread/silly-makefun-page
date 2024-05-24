@@ -22,9 +22,9 @@
             </div>
         </section>
     </div>
-    <div class="mt-5 lg:mt-0 lg:ml-auto lg:w-1/4 lg:flex lg:flex-col lg:items-end">
-        <img class="rounded-lg border-4" src="/graph.gif" alt="tu elo">
-        <p class="text-lg lg:text-2xl text-center lg:text-right">
+    <div class="mt-5 mx-5 lg:mt-10 lg:ml-auto lg:w-1/4 lg:flex lg:flex-col lg:items-center">
+        <img class="rounded-lg border-8" src="/graph.gif" alt="tu elo">
+        <p class="text-lg lg:text-2xl text-left lg:text-right">
             tu elo...
         </p>
     </div>
