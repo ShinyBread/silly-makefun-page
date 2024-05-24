@@ -9,7 +9,7 @@
 
   <div class=app>
     <ViewTransition />
-    <main class="min-h-screen ">
+    <main class="min-h-screen bg-background border-8">
         <slot />
     </main>
 </div>
