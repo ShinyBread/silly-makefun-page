@@ -33,10 +33,10 @@
 <footer class="fixed bottom-12 w-full py-8 mx-5">
     <div>
         <a href="./pag2">
-            <button class="fixed right-2 mt-2 mx-4 px-8 py-2 bg-primary border-4 text-white rounded-full text-lg md:text-2xl transform transition-transform duration-300 hover:scale-110 hover:bg-accent"> 🠺 </button>
+            <button class="fixed right-2 mt-2 mx-4 px-8 py-2 bg-primary border-4 rounded-full text-lg md:text-2xl transform transition-transform duration-300 hover:scale-110 hover:bg-accent"> 🠺 </button>
         </a>
         <a href="./">
-            <button class="fixed left-2 mt-2 mx-4 px-8 py-2 bg-primary border-4 text-white rounded-full text-lg md:text-2xl transform transition-transform duration-300 hover:scale-110 hover:bg-accent"> 🠸 </button>
+            <button class="fixed left-2 mt-2 mx-4 px-8 py-2 bg-primary border-4 rounded-full text-lg md:text-2xl transform transition-transform duration-300 hover:scale-110 hover:bg-accent"> 🠸 </button>
         </a>
     </div>
 </footer>

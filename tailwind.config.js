@@ -9,7 +9,8 @@ export default {
       'primary': '#f812ab',
       'secondary': '#fb748b',
       'accent': '#f9434c',
-      'svelte':'#c2410c'
+      'svelte':'#c2410c',
+      'white':'#ffffff',
      },
   },
   plugins: [],

@@ -4,13 +4,13 @@
     <img class="mt-6 sm:mt-8 md:mt-10 lg:mt-10" src="/muahaha.gif" alt="">
     <p class="text-lg sm:text-xl lg:text-xl mt-4">No se preocupe, quizás esto le ayude....</p>
     <a href="./pag1">
-        <button class="mt-6 sm:mt-8 lg:mt-8 px-6 sm:px-8 lg:px-8 py-3 sm:py-4 lg:py-4 bg-primary border-4 text-white rounded-lg text-xl sm:text-2xl lg:text-2xl transform transition-transform duration-300 hover:scale-110 hover:bg-accent">Click aquí</button>
+        <button class="mt-6 sm:mt-8 lg:mt-8 px-6 sm:px-8 lg:px-8 py-3 sm:py-4 lg:py-4 bg-primary border-4 rounded-lg text-xl sm:text-2xl lg:text-2xl transform transition-transform duration-300 hover:scale-110 hover:bg-accent"><p class="text-white">Click aquí</p></button>
     </a>
 
 </div>
 <div class="mt-10 bottom-0 w-full py-4 px-2 sm:py-6 lg:py-8 text-center">
     <p>Hecho con amor, para usted malo qlo con 
-        <a class="text-accent transform transition-transform duration-300 hover:text-lg hover:underline hover:text-svelte" href="https://kit.svelte.dev/">Svelte</a>
+        <a class="text-accent hover:underline hover:text-svelte" href="https://kit.svelte.dev/">Svelte</a>
     </p>
     <p>Por <a href="a">Shiny</a> :3</p>
 </div>
